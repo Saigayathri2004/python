@@ -1,0 +1,10 @@
+print("calculator")
+print("1.ADDITION \n2.SUBSTRACTION\n3.MULTIPLICATION\n4.QUOTIENT\n5.REMINDER")
+a=int(input("1st no :"))
+b=int(input("2nd no :"))
+print("sum = ",+a+b)
+print("diff = ",+a-b)
+print("pro = ",+a*b)
+print("qoutint =",+a/b)
+print("reminder =",+a%b)
+                    

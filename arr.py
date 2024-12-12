@@ -1,0 +1,5 @@
+n=int(input("enter the limit"))
+for x in range(1,n+1)
+    num=int(input("no :")).format(i)
+print("array is")
+print(format(i))    	
